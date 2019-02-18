@@ -1,0 +1,9 @@
+Hi Chuck, 
+
+I'm one of your online students, based out of Manitou Springs.  I'm interested in applying to the online Master's program for spring, and then if I make it in, possibly applying to the on campus program for next fall.  I was hoping to get a recommendation from you based on some of my work.  I've had an unconventional path here, but I think I'm ready to take the next steps in computer science.  
+
+What I'm most interested in studying is machine learning.  I studied Actuarial Science and Math in undergrad, but I wasn't exactly a great student back then.  nd kind of fell into IT after graduation six years ago.  I've since become a developer and have enjoyed it greatly.  
+
+To give you an idea of my strengths and interests, here is a link to a project I've been working on lately.  I explore wind turbine data to predict wind direction using SVM and recurrent neural networks (keras).  
+
+I've participated in some kaggle competitions in deep learning the past few years.  
